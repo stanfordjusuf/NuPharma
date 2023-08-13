@@ -104,7 +104,7 @@ export default function Bonuses() {
       <br />
       <center>
         <img
-          src="https://i.ibb.co/JmpqrMH/19.png"
+          src="https://i.ibb.co/kyCHhVG/Webfinity-Assets-9.png"
           className="lg:w-[1040px] lg:h-[640px] sm:w-full sm:h-full"
           style={{ borderRadius: "30px" }}
         />
