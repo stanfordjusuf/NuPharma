@@ -248,7 +248,7 @@ export default function HeroTwo() {
                   KPOP sensation, Jeong Yeon,
                 </span>{" "}
                 to enhance{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                <span className="text-transparent bg-clip-text" style={{ color: "#93B1EB" }}>
                   the customer experience
                 </span>
               </p>
