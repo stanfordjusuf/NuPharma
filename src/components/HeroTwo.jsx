@@ -34,7 +34,7 @@ export default function HeroTwo() {
               </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
                 The best of South Korea,{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                <span className="text-transparent bg-clip-text" style={{ color: "#93B1EB" }}>
                   Boryung Pharmaceuticals
                 </span>
               </p>
@@ -194,7 +194,7 @@ export default function HeroTwo() {
                   sales agents
                 </span>{" "}
                 are trained by{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                <span className="text-transparent bg-clip-text" style={{ color: "#93B1EB" }}>
                   Alex Hormozi
                 </span>
               </p>
@@ -244,7 +244,7 @@ export default function HeroTwo() {
               </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
                 We work with{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                <span className="text-transparent bg-clip-text" style={{ color: "#93B1EB" }}>
                   KPOP sensation, Jeong Yeon,
                 </span>{" "}
                 to enhance{" "}
