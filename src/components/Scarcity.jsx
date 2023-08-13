@@ -3,7 +3,7 @@ import React from "react";
 export default function Scarcity() {
   const stats = [
     {
-      data: ">3",
+      data: "<3",
       title: "new investors",
     },
     {
