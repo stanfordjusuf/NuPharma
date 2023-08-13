@@ -17,7 +17,7 @@ export default function Guarantee() {
               Alden
             </span>{" "}
             , has first hand experience{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+            <span className="text-transparent bg-clip-text" style={{ color: "#93B1EB" }}>
               living with an eating disorder
             </span>
           </h2>
