@@ -3,19 +3,22 @@ import React from "react";
 export default function Testimonials() {
   const team = [
     {
-      avatar: "https://i.ibb.co/YThmQwv/Past-Webfinity-Clients.png",
-      name: "Showtime Karaoke",
-      title: "The biggest family karaoke in BSD city.",
+      avatar: "https://i.ibb.co/8cQKRcC/10.png",
+      name: "LEZATRON",
+      title:
+        "For anorexia. Learn to love food. A ground breaking appetite stimulant powered by Megestrol Acetate.",
     },
     {
-      avatar: "https://i.ibb.co/jHn5X48/Past-Webfinity-Clients-2.png",
-      name: "AMPM Dance Studio",
-      title: "The biggest dance studio in Jakarta.",
+      avatar: "https://i.ibb.co/nkZnHMv/11.png",
+      name: "PIHUNRON",
+      title:
+        "For binge eating. Heal your relationship with food. A metabolic booster and appetite regulator fueled by Conjugated Linoleic Acid (CLA).",
     },
     {
-      avatar: "https://i.ibb.co/txjVg5n/Past-Webfinity-Clients-3.png",
-      name: "Maxley Suites",
-      title: "Hotel & lodging.",
+      avatar: "https://i.ibb.co/sv0TFJS/12.png",
+      name: "CLARITRON",
+      title:
+        "For mental health and LEZATRON or PIHUNRON activator. Don't let food control your life. A serotonin producer and absorption agent energized by Tryptophan Hydroxylase (TPH).",
     },
   ];
 
@@ -23,11 +26,11 @@ export default function Testimonials() {
     <section className="bg-white py-14">
       <div className="max-w-screen-xl mx-auto px-4 md:px-8">
         <div className="max-w-xl mx-auto sm:text-center">
-          <p className="text-gray-600 mt-3">#TOWEBFINITYANDBEYOND</p>
+          <p className="text-gray-600 mt-3">#NuGeneration</p>
           <h2 className="text-4xl text-gray-800 font-extrabold mx-auto md:text-5xl">
-            TRUSTED BY ENTREPRENEURS{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-              ALL OVER SOUTHEAST ASIA
+            INTRODUCING THE{" "}
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+              TRINITY OF CURE. JUST 2 PILLS A DAY.
             </span>
           </h2>
         </div>
@@ -53,6 +56,14 @@ export default function Testimonials() {
           </ul>
         </div>
       </div>
+      <br />
+      <center>
+        <img
+          src="https://i.ibb.co/VHqKZ8C/Webfinity-Assets-8.png"
+          className="lg:w-[1040px] lg:h-[640px] sm:w-full sm:h-full"
+          style={{ borderRadius: "30px" }}
+        />
+      </center>
     </section>
   );
 }

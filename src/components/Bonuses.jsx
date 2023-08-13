@@ -19,8 +19,8 @@ export default function Bonuses() {
           />
         </svg>
       ),
-      title: "FREE Design Consultation",
-      desc: "Let's work together to make your sales funnel pop!",
+      title: "Rapid demand GROWTH",
+      desc: "A revolutionary product. An exponential rise in demand.",
     },
     {
       icon: (
@@ -39,8 +39,8 @@ export default function Bonuses() {
           />
         </svg>
       ),
-      title: "FREE UI/UX Design",
-      desc: "So that your sales funnel stands out from the crowd.",
+      title: "Not $5K, $5M, BUT $5 BILLION in revenue by end of 2029",
+      desc: "We will sell more than 1.6 billion bottles to heal the 70 million people living with eating disorders.",
     },
     {
       icon: (
@@ -59,68 +59,8 @@ export default function Bonuses() {
           />
         </svg>
       ),
-      title: "FREE SSL Certificate",
-      desc: "To keep hackers out of your sales funnel.",
-    },
-    {
-      icon: (
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 24 24"
-          strokeWidth={1.5}
-          stroke="currentColor"
-          className="w-6 h-6"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z"
-          />
-        </svg>
-      ),
-      title: "FREE Analytics",
-      desc: "See how our sales funnel can grow your business.",
-    },
-    {
-      icon: (
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 24 24"
-          strokeWidth={1.5}
-          stroke="currentColor"
-          className="w-6 h-6"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"
-          />
-        </svg>
-      ),
-      title: "FREE One Year Secure Hosting",
-      desc: "So your customers' data are safe.",
-    },
-    {
-      icon: (
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 24 24"
-          strokeWidth={1.5}
-          stroke="currentColor"
-          className="w-6 h-6"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z"
-          />
-        </svg>
-      ),
-      title: "FREE One Year Custom Domain",
-      desc: "To give your sales funnel a unique identity.",
+      title: "We got 68% gross profit margins ON LOCK",
+      desc: "We sell each bottle at $29.99 retail at $10 cost.",
     },
   ];
 
@@ -130,9 +70,9 @@ export default function Bonuses() {
         <div className="relative max-w-2xl mx-auto sm:text-center">
           <div className="relative z-10">
             <h2 className="text-4xl text-gray-800 font-extrabold mx-auto md:text-5xl">
-              WORK WITH US TODAY AND YOU WILL GET{" "}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                SEVERAL FREE BONUSES
+              OUR FINANCES ARE LIKE OUR BELOVED CUSTOMERS.{" "}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                THRIVING.
               </span>
             </h2>
           </div>
@@ -161,6 +101,22 @@ export default function Bonuses() {
           </ul>
         </div>
       </div>
+      <br />
+      <center>
+        <img
+          src="https://i.ibb.co/JmpqrMH/19.png"
+          className="lg:w-[1040px] lg:h-[640px] sm:w-full sm:h-full"
+          style={{ borderRadius: "30px" }}
+        />
+      </center>
+      <br />
+      <center>
+        <img
+          src="https://i.ibb.co/6WgpWwP/18.png"
+          className="lg:w-[1040px] lg:h-[640px] sm:w-full sm:h-full"
+          style={{ borderRadius: "30px" }}
+        />
+      </center>
     </section>
   );
 }

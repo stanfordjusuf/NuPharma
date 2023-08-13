@@ -8,8 +8,8 @@ export default function HeroTwo() {
           <div className="space-y-5 max-w-4xl mx-auto text-center">
             <h2 className="text-4xl text-gray-800 font-extrabold mx-auto md:text-5xl">
               OUR{" "}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                METHOD
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                SECRET SAUCE
               </span>
             </h2>
           </div>
@@ -20,31 +20,32 @@ export default function HeroTwo() {
           <div className="items-center gap-x-12 sm:px-4 md:px-0 lg:flex">
             <div className="flex-1 sm:hidden lg:block">
               <img
-                src="https://i.ibb.co/JQ6nLV5/Webfinity-Assets-6.png"
+                src="https://i.ibb.co/r0PYjmX/13.png"
                 className="md:max-w-lg sm:rounded-lg"
                 alt=""
               />
             </div>
             <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
-              <h3 className="text-indigo-600 font-semibold">
-                Business Expertise
+              <h3
+                className="text-indigo-600 font-semibold"
+                style={{ color: "#93B1EB" }}
+              >
+                Key Manufacturing Partner
               </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                Create sales funnels that are{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  not only beautiful
-                </span>{" "}
-                but also{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  remarkably effective
+                The best of South Korea,{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  Boryung Pharmaceuticals
                 </span>
               </p>
               <p className="mt-3 text-gray-600">
-                Our consultants will build a sales funnel custom to your niche!
+                We trust our production with only the creme de le creme in this
+                industry!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="#"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
+                style={{ color: "#93B1EB" }}
               >
                 I'm listening
                 <svg
@@ -69,33 +70,39 @@ export default function HeroTwo() {
           <div className="items-center gap-x-12 sm:px-4 md:px-0 lg:flex">
             <div className="flex-1 sm:hidden lg:block">
               <img
-                src="https://i.ibb.co/4dDcxty/Webfinity-Assets.png"
+                src="https://i.ibb.co/ZWNZkHY/14.png"
                 className="md:max-w-lg sm:rounded-lg"
                 alt=""
               />
             </div>
             <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
-              <h3 className="text-indigo-600 font-semibold">Affordability</h3>
+              <h3
+                className="text-indigo-600 font-semibold"
+                style={{ color: "#93B1EB" }}
+              >
+                Key Operators
+              </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                Say{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  goodbye
+                A team of{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  driven
                 </span>{" "}
-                to{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  expensive
+                and{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  selfless
                 </span>{" "}
-                subscriptions & agencies
+                individuals!
               </p>
               <p className="mt-3 text-gray-600">
-                We have worked incredibly hard to make Webfinity sales funnels
-                the most affordable in the industry!
+                The Scientists - Bella and Matthew. The CEO - Alden. The
+                Mathematicians - Enzo, Jason and Gao.
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="#"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
+                style={{ color: "#93B1EB" }}
               >
-                I'm listening
+                I'm intrigued
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
@@ -118,27 +125,33 @@ export default function HeroTwo() {
           <div className="items-center gap-x-12 sm:px-4 md:px-0 lg:flex">
             <div className="flex-1 sm:hidden lg:block">
               <img
-                src="https://i.ibb.co/PgcMfCt/Webfinity-Assets-2.png"
+                src="https://i.ibb.co/Xt9HCTS/15.png"
                 className="md:max-w-lg sm:rounded-lg"
                 alt=""
               />
             </div>
             <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
-              <h3 className="text-indigo-600 font-semibold">Simplicity</h3>
+              <h3
+                className="text-indigo-600 font-semibold"
+                style={{ color: "#93B1EB" }}
+              >
+                Key Resource
+              </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                No more{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  complicated no-code
-                </span>{" "}
-                funnel builders
+                A collaboration contract with{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  CJ ENM
+                </span>
               </p>
               <p className="mt-3 text-gray-600">
-                We take the funnel building process from absolute start to
-                absolute finish!
+                Where we together with the largest South Korean mass media
+                company combine the worlds of altruistic pharmaceutical magic
+                with Korean culture!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="#"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
+                style={{ color: "#93B1EB" }}
               >
                 I'm curious
                 <svg
@@ -163,27 +176,36 @@ export default function HeroTwo() {
           <div className="items-center gap-x-12 sm:px-4 md:px-0 lg:flex">
             <div className="flex-1 sm:hidden lg:block">
               <img
-                src="https://i.ibb.co/72BCJZP/Webfinity-Assets-3.png"
+                src="https://i.ibb.co/rtf9GVP/16.png"
                 className="md:max-w-lg sm:rounded-lg"
                 alt=""
               />
             </div>
             <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
-              <h3 className="text-indigo-600 font-semibold">Customisation</h3>
+              <h3
+                className="text-indigo-600 font-semibold"
+                style={{ color: "#93B1EB" }}
+              >
+                Sales Channels
+              </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                Leave{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  troublesome link-in-bios
+                Our{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  sales agents
                 </span>{" "}
-                in the past
+                are trained by{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  Alex Hormozi
+                </span>
               </p>
               <p className="mt-3 text-gray-600">
-                We make custom sales funnels with seamless integration for
-                maximum inbound conversion!
+                Alex Hormozi, or the $100M man, ensures that our agents are
+                masters of their field!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="#"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
+                style={{ color: "#93B1EB" }}
               >
                 I'm interested
                 <svg
@@ -208,31 +230,38 @@ export default function HeroTwo() {
           <div className="items-center gap-x-12 sm:px-4 md:px-0 lg:flex">
             <div className="flex-1 sm:hidden lg:block">
               <img
-                src="https://i.ibb.co/QKhD3rG/Webfinity-Assets-4.png"
+                src="https://i.ibb.co/BK2vM3H/17.png"
                 className="md:max-w-lg sm:rounded-lg"
                 alt=""
               />
             </div>
             <div className="max-w-xl px-4 space-y-3 mt-6 sm:px-0 md:mt-0 lg:max-w-2xl">
-              <h3 className="text-indigo-600 font-semibold">Efficiency</h3>
+              <h3
+                className="text-indigo-600 font-semibold"
+                style={{ color: "#93B1EB" }}
+              >
+                Customer Relationships
+              </h3>
               <p className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                Let go of{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  bureaucratic
+                We work with{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  KPOP sensation, Jeong Yeon,
                 </span>{" "}
-                and complicated{" "}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#4F46E5] to-[#E114E5]">
-                  developers
+                to enhance{" "}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+                  the customer experience
                 </span>
               </p>
               <p className="mt-3 text-gray-600">
-                We simplify the funnel building process to just 4 simple steps!
+                Our ambasaddor is a beaming light of body positivity that shines
+                on our customers!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="#"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
+                style={{ color: "#93B1EB" }}
               >
-                I'm sold! I want my sales funnel now!
+                I'm sold! I want to invest in Nu Pharma now!
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
