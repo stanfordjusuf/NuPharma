@@ -11,7 +11,7 @@ export default function heroOne() {
             </h1>
             <h2 className="text-4xl text-gray-800 font-extrabold mx-auto md:text-5xl">
               DO YOU WANT TO LIVE IN A{" "}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#69d9f1] to-[#93B1EB]">
+              <span className="text-transparent bg-clip-text" style={{ color: "#93B1EB" }}>
                 WORLD FREE FROM EATING DISORDERS
               </span>{" "}
               ?
